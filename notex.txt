@@ -1,0 +1,10 @@
+exportar bmp no python
+tentar converter pra pdf ou  (inkscape) 
+
+# fidcs_API_template
+
+trabalhos futuros:
+como dar procedimento ao trabalho realizado
+- imgs de raio x
+- comparar com filtros baseados em deep learning
+- olhar poisson nlm
